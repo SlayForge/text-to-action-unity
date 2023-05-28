@@ -1,0 +1,11 @@
+<actions>
+	<simultaneous>
+		<action type="walk" destination="stage_left"/>
+		<action type="say" text="Hello there!"/>
+	</simultaneous>
+	<sequential>
+		<action type="point" destination="stage_right"/>
+		<action type="say" text="Hello Mamameyaa!"/>
+		<action type="switch_slide" slide_number="2"/>
+	</sequential>
+</actions>

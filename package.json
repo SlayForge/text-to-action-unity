@@ -1,0 +1,23 @@
+{
+  "name": "com.slay_forge.cmsdu",
+  "version": "0.8.0",
+  "displayName": "Markup NPC Behavior Describer for Unity",
+  "description": "A simple tool for describing scenes, cutscenes, and NPC behaviors with animations using XML.",
+  "unity": "2020.2",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "Slay",
+    "AILA",
+    "SlayForge"
+  ],
+  "author": {
+    "name": "RabeeQiblawi",
+    "email": "RabeeQiblawi@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "library",
+  "hideInEditor": true
+}

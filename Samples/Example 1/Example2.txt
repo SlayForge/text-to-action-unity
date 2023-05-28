@@ -1,0 +1,6 @@
+<actions>
+	<sequential>
+		<action type="walk" destination="Destination_A"/>
+		<action type="walk" destination="Destination_B"/>
+	</sequential>
+</actions>
